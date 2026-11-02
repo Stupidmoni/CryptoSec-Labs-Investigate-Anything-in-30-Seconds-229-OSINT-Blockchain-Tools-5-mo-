@@ -1,283 +1,267 @@
-CryptoSec Labs — Digital Intelligence, Cyber Investigation & Blockchain Forensics
+🔎 CryptoSec Labs
 
-<div align="center">""Website" (https://img.shields.io/badge/Website-CryptoSec%20Labs-blue?style=for-the-badge)" (https://cryptosec.xo.je/)
-""Tools" (https://img.shields.io/badge/Investigation%20Tools-229-blue?style=flat-square)" (https://cryptosec.xo.je/capabilities.php)
-""Data Sources" (https://img.shields.io/badge/Live%20Data%20Sources-40%2B-success?style=flat-square)" (https://cryptosec.xo.je/)
-""Blockchains" (https://img.shields.io/badge/Blockchains-6-orange?style=flat-square)" (https://cryptosec.xo.je/)
-""Pricing" (https://img.shields.io/badge/Starting%20Price-%245%2Fmonth-brightgreen?style=flat-square)" (https://cryptosec.xo.je/pricing.php)
+Digital Intelligence · Cyber Investigation · Blockchain Forensics
 
 Investigate Anything in 30 Seconds.
 
-One target. 229 investigation tools. A unified digital intelligence workspace.
+CryptoSec Labs is a digital investigation workspace for domains, IP addresses, cryptocurrency wallets, email addresses, and OSINT targets. Bring investigation tools, intelligence sources, blockchain analysis, and evidence reporting together in one place.
 
-CryptoSec Labs is a forensic investigation platform for domains, IP addresses, cryptocurrency wallets, emails, and OSINT targets. Investigations combine multiple data sources, organize findings, and support evidence-oriented reporting from one workspace.
+<p align="center">
+  <a href="https://cryptosec.xo.je/"><strong>🌐 Official Website</strong></a> ·
+  <a href="https://cryptosec.xo.je/demo.php"><strong>▶ Watch Demo</strong></a> ·
+  <a href="https://cryptosec.xo.je/try.php"><strong>🧪 Try Free Tools</strong></a> ·
+  <a href="https://cryptosec.xo.je/pricing.php"><strong>🚀 Get Access</strong></a>
+</p>---
 
-"🌐 Visit Website" (https://cryptosec.xo.je/) · "🚀 Get Access" (https://cryptosec.xo.je/pricing.php) · "🧪 Try Free Tools" (https://cryptosec.xo.je/try.php) · "▶ Watch Demo" (https://cryptosec.xo.je/demo.php)
-
-No signup required to try free tools · Cryptocurrency payments accepted · Cancel anytime
-
-</div>---
-
-📌 Overview
-
-Digital investigations often require switching between multiple services to investigate a single target. DNS records, IP reputation, blockchain transactions, email security, and social intelligence can all require separate tools.
-
-CryptoSec Labs brings these investigation capabilities together in one workspace.
-
-Designed for cybersecurity analysts, blockchain investigators, compliance teams, journalists, and independent researchers, the platform helps users investigate digital entities, correlate findings, and organize results for further analysis.
-
-Platform at a Glance
+📊 Platform Overview
 
 Feature| Details
-Investigation tools| 229
-Live data sources| 40+
-Blockchain networks| 6
-Target types| Domains, IPs, wallets, emails, and OSINT targets
-Investigation workflow| Parallel analysis across supported tools
-Evidence management| Case records, timelines, and SHA-256 evidence tracking
-Reporting| Exportable investigation reports
-Free access| Selected tools available without signup
-Starting price| $5/month
+🔧 Investigation Tools| 229
+🌐 Live Data Sources| 40+
+⛓️ Blockchain Networks| 6 advertised
+⚡ Investigation Time| Approximately 30 seconds advertised
+💳 Starting Price| $5/month
+🧪 Free Tools| Available without signup, according to the website
+📄 Reports| Exportable investigation reports
+🔐 Payments| Cryptocurrency accepted
 
-Figures and capabilities are based on the platform's published descriptions and may change as the service evolves.
+Features and figures reflect the platform's published descriptions and may change.
 
 ---
 
-🔎 Investigation Capabilities
+🎯 What Is CryptoSec Labs?
 
-CryptoSec Labs organizes its investigation capabilities into twelve categories.
+Digital investigations often require multiple tools to investigate a single target.
 
-🌐 1. Domain & DNS Intelligence
+You might need one service for DNS records, another for IP reputation, another for blockchain transactions, and another for email security.
 
-Investigate domains, DNS configurations, and domain infrastructure.
+CryptoSec Labs aims to bring these capabilities together in a unified investigation workspace.
 
-- DNS record lookup: A, AAAA, MX, TXT, CNAME, and NS.
-- Subdomain discovery using supported techniques and certificate transparency data.
-- Historical WHOIS and registrar information.
-- DNS propagation and zone-integrity checks.
-- Domain configuration analysis.
-- Infrastructure mapping and relationship discovery.
+What You Can Investigate
 
-Use cases: Domain investigations, phishing analysis, infrastructure reconnaissance, and security assessments.
+- 🌐 Domains and DNS records
+- 🛡️ IP addresses and network infrastructure
+- ⛓️ Bitcoin transactions and wallets
+- 💎 Ethereum and EVM-compatible blockchains
+- ◎ Solana addresses and tokens
+- 🔴 TRON transactions and tokens
+- 📧 Email addresses and domain security
+- 👤 Publicly available OSINT information
+- 🕸️ Blockchain relationships and transaction flows
+- 🛠️ Software projects and security issues
+- 📋 Investigation cases and evidence records
+- 🧠 Threat intelligence and security indicators
 
-🛡️ 2. IP & Network Intelligence
+---
 
-Collect and analyze information about IP addresses and network infrastructure.
+🧰 The 12 Investigation Categories
 
-- IP geolocation and network ownership.
-- Autonomous System Number (ASN) information.
-- Reverse DNS lookups.
-- IP reputation and threat-intelligence checks.
-- Supported port and service discovery.
-- HTTP and network fingerprinting.
+1. 🌐 Domain & DNS Intelligence
 
-Use cases: Incident response, infrastructure attribution, threat hunting, and defensive security research.
+Investigate domains, DNS configurations, and internet infrastructure.
 
-⛓️ 3. Bitcoin Forensics
+- DNS record lookups: A, AAAA, MX, TXT, CNAME, and NS
+- Subdomain discovery
+- Certificate transparency research
+- Historical WHOIS information
+- Registrar and DNS configuration analysis
+- Domain infrastructure mapping
 
-Analyze Bitcoin addresses and transaction activity.
+2. 🛡️ IP & Network Intelligence
 
-- Transaction and UTXO tracing.
-- Address and transaction relationship analysis.
-- Supported address-clustering techniques.
-- Mixer and CoinJoin-related indicators.
-- Mempool and transaction-fee analysis.
-- Transaction history and fund-flow visualization.
+Analyze IP addresses and their associated network infrastructure.
 
-Use cases: Cryptocurrency investigations, fraud analysis, incident response, and tracing suspicious transactions.
+- IP geolocation
+- ASN and network ownership information
+- Reverse DNS lookups
+- IP reputation checks
+- Supported port and service discovery
+- HTTP fingerprinting
 
-Blockchain attribution and clustering are analytical indicators, not definitive proof of common ownership.
+3. ⛓️ Bitcoin Forensics
 
-💎 4. Ethereum & EVM Intelligence
+Explore Bitcoin transactions and address relationships.
 
-Investigate Ethereum and supported Ethereum Virtual Machine-compatible networks.
+- Transaction and UTXO tracing
+- Address relationship analysis
+- Potential mixer and CoinJoin indicators
+- Transaction history
+- Mempool and fee analysis
+- Fund-flow investigation
 
-- Smart-contract and bytecode analysis.
-- ABI and transaction decoding.
-- Token-holder and transaction analysis.
-- Token approval inspection.
-- Liquidity-pool and liquidity-lock indicators.
-- Honeypot, phishing, and potential rug-pull signals.
-- Wallet activity and fund-flow analysis.
+4. 💎 Ethereum & EVM Intelligence
 
-Use cases: Smart-contract security research, token risk assessment, DeFi investigations, and fraud detection.
+Investigate smart contracts, wallets, and tokens.
 
-◎ 5. Solana Intelligence
+- Smart-contract and bytecode analysis
+- Transaction and ABI decoding
+- Token-holder analysis
+- Token approval inspection
+- Liquidity and LP-lock indicators
+- Potential honeypot and rug-pull signals
 
-Analyze Solana addresses, tokens, and on-chain activity.
+5. ◎ Solana Intelligence
 
-- Program and account inspection.
-- Instruction and IDL decoding.
-- Token-holder distribution.
-- NFT and staking information.
-- Program Derived Address (PDA) analysis.
-- Token and transaction relationship analysis.
-- Supported token-risk and RugCheck integrations.
+Explore Solana accounts, tokens, and on-chain activity.
 
-Use cases: Solana ecosystem research, token investigations, suspicious transaction analysis, and project due diligence.
+- Program and account inspection
+- Instruction and IDL decoding
+- Token-holder distribution
+- NFT and staking information
+- Program Derived Address analysis
+- Supported token-risk checks
 
-🔴 6. TRON Intelligence
+6. 🔴 TRON Intelligence
 
-Investigate TRON wallets, contracts, and token transactions.
+Analyze TRON wallets, transactions, and token activity.
 
-- TRON address and transaction analysis.
-- TRC-20 token activity.
-- Energy and bandwidth information.
-- Transaction graph analysis.
-- Stablecoin transaction tracing.
-- Contract and wallet-risk indicators.
+- TRON address investigation
+- TRC-20 token analysis
+- Transaction graph exploration
+- Energy and bandwidth information
+- Stablecoin transaction tracing
+- Contract-risk indicators
 
-Use cases: Stablecoin investigations, suspicious fund-flow analysis, and cryptocurrency compliance research.
+7. 📧 Email Intelligence
 
-📧 7. Email Intelligence
+Review email-related information and domain security.
 
-Evaluate email addresses and the security posture of their associated domains.
+- Supported breach-exposure checks
+- Disposable email detection
+- SPF, DKIM, and DMARC analysis
+- Email-domain reputation
+- Email-header inspection
+- Email authentication checks
 
-- Supported breach-exposure checks.
-- Disposable email detection.
-- SPF, DKIM, and DMARC configuration analysis.
-- Email-domain reputation checks.
-- Email-header and routing analysis.
-- Authentication and spoofing-risk indicators.
-
-Use cases: Phishing investigations, business email compromise research, email-security audits, and incident response.
-
-Breach checks depend on the availability and permitted use of relevant data sources.
-
-👤 8. OSINT & People Intelligence
+8. 👤 OSINT & People Intelligence
 
 Research publicly available information associated with digital identifiers.
 
-- Cross-platform username discovery.
-- Public social-profile research.
-- Phone-number carrier and reputation information where supported.
-- Reverse-image and metadata analysis where supported.
-- Publicly available digital identity indicators.
-- Relationship and profile correlation.
+- Cross-platform username discovery
+- Public social-profile research
+- Supported phone intelligence
+- Image metadata analysis
+- Publicly available identity indicators
+- Relationship discovery
 
-Use cases: Digital investigations, impersonation research, fraud prevention, and open-source intelligence.
+9. 🕸️ Blockchain Correlation
 
-Use these capabilities lawfully and respect privacy, consent, and applicable data-protection requirements.
+Analyze transaction relationships and potential connections between blockchain networks.
 
-🕸️ 9. Mixer & Cross-Chain Correlation
+- Mixer-related transaction indicators
+- Cross-chain bridge activity
+- Transaction timeline analysis
+- Wallet relationship graphs
+- Fund-flow investigation
+- Risk indicators
 
-Examine transaction relationships and potential connections across blockchain networks.
+10. 🛠️ Developer Tools & Project Doctor
 
-- Supported mixer-related transaction indicators.
-- Cross-chain bridge activity analysis.
-- Transaction timeline reconstruction.
-- Wallet and transaction relationship graphs.
-- Risk-scored fund-flow indicators.
-- Anonymity-related transaction analysis.
+Review software projects and potential development issues.
 
-Use cases: Cryptocurrency tracing, suspicious fund-flow investigations, and blockchain incident response.
+- Project structure mapping
+- Dependency inspection
+- Static-analysis checks
+- Deployment validation
+- Code-quality analysis
+- Unit-test generation where supported
 
-Cross-chain correlation and mixer analysis are probabilistic and should not be treated as conclusive attribution.
+11. 📋 Case & Evidence Management
 
-🛠️ 10. Developer Tools & Project Doctor
+Organize findings and maintain investigation records.
 
-Analyze software projects and identify potential development and security issues.
+- Investigation case organization
+- SHA-256 evidence hashing
+- Evidence records and timelines
+- Chain-of-custody documentation
+- Indicator of Compromise (IOC) tagging
+- PDF and client-report exports where supported
 
-- Project structure mapping.
-- Dependency inspection.
-- Static-analysis checks.
-- Deployment validation.
-- Code-quality indicators.
-- Unit-test generation where supported.
-- Project diagnostics and remediation workflows.
+12. 🧠 Threat Intelligence
 
-Use cases: Software maintenance, secure development, dependency reviews, and project troubleshooting.
+Research security threats and available threat indicators.
 
-📋 11. Case & Evidence Management
+- Supported paste-site intelligence
+- Public threat-intelligence sources
+- Ransomware-related intelligence where available
+- Threat-actor and infrastructure correlation
+- IOC extraction
+- Threat-hunting workflows
 
-Organize investigation findings and maintain supporting evidence records.
-
-- Case organization and investigation notes.
-- SHA-256 evidence hashing.
-- Timestamped evidence records where supported.
-- Chain-of-custody documentation.
-- Indicator of Compromise (IOC) tagging.
-- Investigation timelines.
-- Exportable PDF and client-report workflows where supported.
-
-Use cases: Incident response documentation, compliance reviews, investigative reporting, and evidence organization.
-
-Cryptographic hashes can help demonstrate that a file has not changed since hashing. They do not independently establish authenticity, provenance, or legal admissibility.
-
-🧠 12. Threat Intelligence & Deep-Web Monitoring
-
-Research threat indicators using supported intelligence sources.
-
-- Paste-site intelligence where available.
-- Supported Telegram and public-channel intelligence collection.
-- Ransomware leak-site monitoring where available.
-- Threat-actor and infrastructure correlation.
-- IOC extraction and organization.
-- Threat-intelligence research workflows.
-
-Use cases: Threat hunting, incident response, exposure monitoring, and defensive intelligence research.
-
-Source availability varies. Access to private, restricted, or unauthorized systems is not implied.
+Available features depend on the platform's current implementation and data-source access.
 
 ---
 
-⚙️ How an Investigation Works
+⚡ How It Works
 
-The platform is designed to bring multiple investigation steps into one workflow.
+CryptoSec Labs is designed to simplify the investigation process.
 
-A typical investigation follows this sequence:
+Step 1 — Choose a target
 
-1. Select a target — Enter a supported domain, IP address, email address, cryptocurrency wallet, or other supported identifier.
-2. Choose an investigation — Select the relevant tools or investigation workflow.
-3. Collect available intelligence — Query supported data sources and services.
-4. Analyze findings — Review technical details, indicators, relationships, and potential risks.
-5. Correlate evidence — Organize relevant observations into a case.
-6. Generate a report — Export supported findings for further investigation, review, or client delivery.
+Enter a supported domain, IP address, email address, cryptocurrency wallet, or other supported identifier.
 
-Example Terminal Preview
+Step 2 — Run an investigation
 
-The following is an illustrative example of how an investigation summary could look. It is not a live scan or a verified output from a specific target.
+Select the relevant tools and investigation workflow.
+
+Step 3 — Analyze the results
+
+Review available intelligence, technical details, and potential risk indicators.
+
+Step 4 — Connect the findings
+
+Organize related observations and build an investigation timeline.
+
+Step 5 — Export a report
+
+Use supported reporting features to document findings for further analysis or client delivery.
+
+Example Investigation
 
 cryptosec@lab:~$ investigate target.example.com --full
 
-[01] DNS enumeration ............... DNS records collected
-[02] Subdomain discovery ........... Available results analyzed
-[03] WHOIS intelligence ............ Registration data reviewed
-[04] IP intelligence ............... Network information collected
-[05] Reputation checks ............. Available indicators reviewed
-[06] Email security ................ SPF/DKIM/DMARC evaluated
-[07] Related infrastructure ........ Relationships analyzed
-[08] Evidence collection ........... Findings organized
-[09] Report generation ............. Export prepared
+[01] DNS intelligence ............. Records reviewed
+[02] Subdomain discovery .......... Results collected
+[03] IP intelligence .............. Network data reviewed
+[04] Reputation analysis .......... Indicators checked
+[05] Email security ............... Authentication checked
+[06] Infrastructure analysis ..... Relationships reviewed
+[07] Evidence collection .......... Findings organized
+[08] Report generation ............ Export prepared
 
 Investigation complete.
-Review findings and validate indicators before drawing conclusions.
+Review findings before drawing conclusions.
 
-▶ "Watch the 30-second demo" (https://cryptosec.xo.je/demo.php)
+The terminal output above is an illustrative example, not a live investigation result.
+
+▶ "Watch the Official Demo" (https://cryptosec.xo.je/demo.php)
 
 ---
 
-👥 Who Is CryptoSec Labs For?
+👥 Who Is It For?
 
-CryptoSec Labs is designed for professionals and researchers who need multiple investigation capabilities in one place.
+CryptoSec Labs is designed for people who investigate digital information.
 
-- Cybersecurity analysts — Investigate suspicious infrastructure and potential indicators of compromise.
-- Blockchain investigators — Analyze cryptocurrency transactions and wallet relationships.
-- Compliance teams — Support risk reviews and documented investigations.
-- Journalists and researchers — Examine publicly available digital information.
-- Independent investigators — Organize findings and prepare client-facing reports.
-- Developers — Review project structure, dependencies, and potential security issues.
+- 🔐 Cybersecurity analysts
+- ⛓️ Blockchain investigators
+- 🕵️ OSINT researchers
+- 📰 Journalists and independent researchers
+- 🏢 Compliance and risk teams
+- 💻 Developers and security professionals
+- 📋 Investigative consultants
+
+Whether you're examining suspicious infrastructure, reviewing a cryptocurrency transaction, or researching publicly available information, the platform aims to bring useful investigation capabilities into one workspace.
 
 ---
 
 💳 Pricing
 
-CryptoSec Labs advertises three plans with access to its investigation toolkit.
+CryptoSec Labs advertises three access plans.
 
 Plan| Price| Advertised Benefits
-Monthly| $5/month| All 229 tools, unlimited runs, Project Doctor, and client-ready exports
-Yearly| $29/year| Monthly-plan features, priority support, and early access to new tools
-Lifetime| $59 one-time| Lifetime access, updates, and priority feature requests
+Monthly| $5/month| Investigation tools and reporting features
+Yearly| $29/year| Annual access, priority support, and early access to new tools
+Lifetime| $59 once| Lifetime access and updates
 
 Choose Your Plan
 
@@ -287,55 +271,32 @@ Choose Your Plan
 
 Payment Information
 
-According to the platform's published information:
+The website advertises cryptocurrency payments, including USDT, Ethereum, and Solana.
 
-- Supported payment options include USDT, Ethereum, and Solana.
-- USDT payment networks include TRC-20 and ERC-20.
-- Monthly and yearly plans are prepaid and expire at the end of their terms.
-- Access activation may take up to 24 hours.
-- A 48-hour money-back policy is advertised.
+Review the current pricing and payment instructions before purchasing.
 
-Review the current "pricing page" (https://cryptosec.xo.je/pricing.php) and "refund policy" (https://cryptosec.xo.je/refund.php) before making a payment.
-
-Prices, supported payment networks, activation times, and plan terms may change.
+- "View Pricing" (https://cryptosec.xo.je/pricing.php)
+- "Refund Policy" (https://cryptosec.xo.je/refund.php)
+- "Terms of Service" (https://cryptosec.xo.je/terms.php)
 
 ---
 
-📊 Feature Comparison
+🔐 Security & Responsible Use
 
-The following table summarizes the comparison published by CryptoSec Labs.
+CryptoSec Labs is intended for lawful investigations, authorized security research, and defensive analysis.
 
-Feature| CryptoSec Labs| Chainalysis| Maltego| Hunchly
-Advertised starting price| $5/month| Varies| Varies| Varies
-Free tools without signup| Advertised| Check provider| Check provider| Check provider
-Blockchain investigation| Advertised| Available| Depends on tools| Limited
-OSINT capabilities| Advertised| Product-dependent| Available| Investigation-focused
-Case management| Advertised| Product-dependent| Product-dependent| Available
-Evidence-oriented reporting| Advertised| Product-dependent| Product-dependent| Available
+Please:
 
-These products have different scopes, features, and licensing models. This table is a high-level overview, not an independent benchmark or a guarantee of feature parity.
+- Investigate only targets you are authorized to examine.
+- Respect privacy and applicable data-protection laws.
+- Avoid harassment, doxxing, and unauthorized access.
+- Verify important findings using reliable sources.
+- Treat automated risk scores as indicators rather than definitive conclusions.
+- Handle sensitive investigation records responsibly.
 
-Visit the respective providers for current pricing, licensing, and capabilities.
+Automated analysis may produce incomplete results or false positives. Findings should be independently reviewed before being used in legal, compliance, or other high-impact decisions.
 
----
-
-🔐 Security, Privacy & Responsible Use
-
-CryptoSec Labs is intended for lawful digital investigations, defensive security research, and authorized analysis.
-
-Users should:
-
-- Investigate only systems and targets they are legally authorized to examine.
-- Respect privacy, confidentiality, and applicable data-protection laws.
-- Avoid harassment, stalking, doxxing, or unauthorized access.
-- Verify important findings using reliable independent sources.
-- Treat automated risk scores and attribution results as indicators rather than definitive conclusions.
-- Handle investigation records and sensitive information securely.
-- Preserve evidence according to applicable legal and organizational requirements.
-
-Automated tools can produce false positives, incomplete results, or incorrect associations. Findings should be reviewed in context before being used for legal, compliance, or other high-impact decisions.
-
-Read the platform's published policies:
+Read the published policies:
 
 - "Security Information" (https://cryptosec.xo.je/security.php)
 - "Responsible Use" (https://cryptosec.xo.je/security.php#responsible-use)
@@ -349,76 +310,66 @@ Read the platform's published policies:
 
 What is CryptoSec Labs?
 
-CryptoSec Labs is a digital investigation workspace that advertises 229 tools covering domain intelligence, IP analysis, email intelligence, OSINT, blockchain investigations, threat intelligence, and evidence management.
+CryptoSec Labs is a digital investigation workspace advertising tools for OSINT, cybersecurity research, blockchain analysis, threat intelligence, and evidence management.
 
-Do I need to create an account to try it?
+Can I try it for free?
 
-The platform advertises selected free tools that can be tried without signing up.
+The website advertises selected free tools that can be tried without creating an account.
 
-"Try Free Tools" (https://cryptosec.xo.je/try.php)
+"Try Free Tools →" (https://cryptosec.xo.je/try.php)
 
-Do I need to install software?
+Do I need to install anything?
 
-The platform is presented as a browser-based workspace. Check the official website for current browser requirements and supported features.
+The platform is presented as a browser-based workspace. Check the official website for current requirements.
 
 Which blockchains are supported?
 
-The platform advertises six blockchain networks, with capabilities covering Bitcoin, Ethereum and EVM networks, Solana, and TRON. Consult the official capabilities page for the current list of supported networks and tools.
+The website advertises six blockchain networks. Bitcoin, Ethereum and EVM networks, Solana, and TRON are among the blockchain environments described in its published capabilities.
 
-How do cryptocurrency payments work?
+Can I export investigation results?
 
-Visit the pricing page, select a plan, and follow the payment instructions displayed by the platform. Verify the payment network and destination address carefully before transferring funds.
+The platform advertises evidence-oriented reporting and export features. Available formats depend on the current implementation.
 
-Can I cancel my subscription?
+How do I get access?
 
-The published pricing information describes monthly and yearly plans as prepaid plans that expire at the end of their terms rather than automatically charging again. Review the current terms before purchasing.
+Visit the pricing page, select a plan, and follow the displayed payment instructions.
 
-Can investigation results be used as legal evidence?
-
-The platform advertises evidence-oriented exports and SHA-256 evidence tracking. Whether particular material is admissible or sufficient as legal evidence depends on its provenance, collection methods, jurisdiction, applicable rules, and supporting documentation.
-
-Is CryptoSec Labs suitable for beginners?
-
-The platform offers browser-based tools and investigation workflows. Users should still understand the limitations of automated analysis and validate important findings before relying on them.
+"Get Access →" (https://cryptosec.xo.je/pricing.php)
 
 Where can I get help?
 
 - Website: "cryptosec.xo.je" (https://cryptosec.xo.je/)
-- Pricing: "View Plans" (https://cryptosec.xo.je/pricing.php)
 - Contact: "Contact CryptoSec Labs" (https://cryptosec.xo.je/contact.php)
 - Email: hello@cryptosec.xo.je
 
 ---
 
-🔗 Useful Links
+🔗 Official Links
 
 Resource| Link
-Official Website| "cryptosec.xo.je" (https://cryptosec.xo.je/)
-Platform Overview| "Overview" (https://cryptosec.xo.je/platform.php)
-Capabilities| "Investigation Tools" (https://cryptosec.xo.je/capabilities.php)
-Free Tools| "Try Free Tools" (https://cryptosec.xo.je/try.php)
-Demo| "Watch Demo" (https://cryptosec.xo.je/demo.php)
-Pricing| "Get Access" (https://cryptosec.xo.je/pricing.php)
-Case Studies| "Investigation Case Studies" (https://cryptosec.xo.je/case-studies.php)
-Security| "Security Information" (https://cryptosec.xo.je/security.php)
-Blog| "Latest Updates" (https://cryptosec.xo.je/blog.php)
-Contact| "Contact Us" (https://cryptosec.xo.je/contact.php)
-Privacy| "Privacy Policy" (https://cryptosec.xo.je/privacy.php)
-Terms| "Terms of Service" (https://cryptosec.xo.je/terms.php)
-Refunds| "Refund Policy" (https://cryptosec.xo.je/refund.php)
+🌐 Website| "cryptosec.xo.je" (https://cryptosec.xo.je/)
+🖥️ Platform Overview| "View Platform" (https://cryptosec.xo.je/platform.php)
+🧰 Capabilities| "Explore Tools" (https://cryptosec.xo.je/capabilities.php)
+🧪 Free Tools| "Try Free Tools" (https://cryptosec.xo.je/try.php)
+▶ Demo| "Watch Demo" (https://cryptosec.xo.je/demo.php)
+💳 Pricing| "View Plans" (https://cryptosec.xo.je/pricing.php)
+📂 Case Studies| "Read Case Studies" (https://cryptosec.xo.je/case-studies.php)
+🔐 Security| "Security Information" (https://cryptosec.xo.je/security.php)
+📰 Blog| "Read the Blog" (https://cryptosec.xo.je/blog.php)
+✉️ Contact| "Contact Us" (https://cryptosec.xo.je/contact.php)
 
 ---
 
-<div align="center">Investigate Smarter. Connect the Evidence. Understand the Risk.
+<div align="center">🚀 Investigate Smarter. Connect the Evidence.
 
 CryptoSec Labs
 
 Digital Intelligence · Cyber Investigation · Blockchain Forensics
 
-"🌐 Website" (https://cryptosec.xo.je/) · "🚀 Get Access" (https://cryptosec.xo.je/pricing.php) · "🧪 Free Tools" (https://cryptosec.xo.je/try.php) · "▶ Demo" (https://cryptosec.xo.je/demo.php)
+"🌐 Website" (https://cryptosec.xo.je/) · "🧪 Free Tools" (https://cryptosec.xo.je/try.php) · "▶ Demo" (https://cryptosec.xo.je/demo.php) · "🚀 Get Access" (https://cryptosec.xo.je/pricing.php)
 
 © 2026 CryptoSec Labs. All rights reserved.
 
-Use investigation tools responsibly and only for lawful, authorized purposes.
+For lawful investigations and authorized use only.
 
 </div>
